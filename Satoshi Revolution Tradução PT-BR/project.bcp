@@ -1,0 +1,121 @@
+{
+    "settings": {
+        "termList": [],
+        "quickfill": [
+            "——",
+            "¥",
+            "©",
+            "®",
+            "™",
+            "『",
+            "』",
+            "",
+            "",
+            ""
+        ],
+        "tmList": [],
+        "matchrate": 0.5,
+        "remove_space": false,
+        "disabled_filters": [
+            "idml (BasicCAT)"
+        ],
+        "server_address": "http:\/\/127.0.0.1:51042",
+        "sharingTM_enabled": true,
+        "tmListChanged": "notchanged",
+        "autocorrect": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "git_enabled": true,
+        "sentence_level_segmentation": true,
+        "save_and_commit": false,
+        "autocorrect_enabled": false,
+        "sharingTerm_enabled": true,
+        "tikal_codeattrs": false,
+        "TM_limit": 500,
+        "record_history": true,
+        "quickfill_includeterm": false,
+        "use_okapi_first": false,
+        "termListChanged": "notchanged",
+        "termMatch_algorithm": "iteration",
+        "updateWorkFile_enabled": true
+    },
+    "lastEntry": 0,
+    "files": [
+        "Agradecimentos.docx.xlf",
+        "Prefácio e Introdução.docx.xlf",
+        "Seção 1 cap. 1.docx.xlf",
+        "Seção 1 cap. 2.docx.xlf",
+        "Seção 1 cap. 3.docx.xlf",
+        "Seção 1 cap. 4.docx.xlf",
+        "Seção 2 cap. 5.docx.xlf",
+        "Seção 2 cap. 6.docx.xlf",
+        "Seção 3 cap. 7.docx.xlf",
+        "Seção 3 cap. 8.docx.xlf",
+        "Seção 4 cap. 9.docx.xlf",
+        "Seção 4 cap. 10.docx.xlf",
+        "Seção 5 cap. 11.docx.xlf",
+        "posfácio.docx.xlf"
+    ],
+    "source": "en",
+    "okapiExtractedFiles": [
+        "Agradecimentos.docx.xlf",
+        "Prefácio e Introdução.docx.xlf",
+        "Seção 1 cap. 1.docx.xlf",
+        "Seção 1 cap. 2.docx.xlf",
+        "Seção 1 cap. 3.docx.xlf",
+        "Seção 1 cap. 4.docx.xlf",
+        "Seção 2 cap. 5.docx.xlf",
+        "Seção 2 cap. 6.docx.xlf",
+        "Seção 3 cap. 7.docx.xlf",
+        "Seção 3 cap. 8.docx.xlf",
+        "Seção 4 cap. 9.docx.xlf",
+        "Seção 4 cap. 10.docx.xlf",
+        "Seção 5 cap. 11.docx.xlf",
+        "posfácio.docx.xlf"
+    ],
+    "lastFile": "Prefácio e Introdução.docx.xlf",
+    "target": "pt"
+}
